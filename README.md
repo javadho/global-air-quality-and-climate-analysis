@@ -34,9 +34,17 @@ EDA was performed to identify trends, distributions, and potential relationships
 
 ![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/Distribution.png)
 
-
-- **Time-Series Trends** – Line plots of mean annual PM2.5 and climate variables over decades highlighted temporal shifts.
 - **Central Tendency Measures** – Mean, median, and mode of each variable were calculated to understand typical values.
+
+|        | PM2.5 | Temperature | Humidity | Precipitation |
+|--------|-------|-------------|----------|---------------|
+| Mean   | 26.78 | 19.34       | 69.46    | 101.03        |
+| Median | 27.10 | 19.33       | 69.48    | 101.11        |
+| Mode   | 23.53 | 18.75       | 68.67    | 94.48         |
+
+  
+- **Time-Series Trends** – Line plots of mean annual PM2.5 and climate variables over decades highlighted temporal shifts.
+
 - **Bivariate Analysis** – Scatter plots examined PM2.5 in relation to each climate variable to identify correlation patterns.
 
 ## Visualizations
