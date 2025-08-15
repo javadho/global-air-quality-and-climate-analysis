@@ -45,7 +45,7 @@ EDA was performed to identify trends, distributions, and potential relationships
   
 - **Time-Series Trends** – Line plots of mean annual PM2.5 and climate variables over decades highlighted temporal shifts.
 
-[View interactive plots](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/trends.html)
+![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/trends.gif)
 
 
 - **Bivariate Analysis** – Scatter plots examined PM2.5 in relation to each climate variable to identify correlation patterns.
