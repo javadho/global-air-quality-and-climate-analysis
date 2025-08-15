@@ -53,10 +53,16 @@ EDA was performed to identify trends, distributions, and potential relationships
 
 ## Visualizations
 Key visualizations included:
+- **Heatmap Correlations** - Showing the linear relationships between variables using the Pearson method.
+
+![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/heatmap.png)
+
+
+![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/p-value.png)
+
 - **Global Trend Lines** – Showing changes in average PM2.5, temperature, and precipitation over time.
 - **Scatter Plots** – PM2.5 vs. temperature, PM2.5 vs. precipitation, PM2.5 vs. humidity, colored by continent.
 - **Country-Level Comparisons** – Highlighting nations with extreme PM2.5 values and their corresponding climate conditions.
-- **Interactive Bokeh Plots** – Allowing dynamic exploration of relationships across years and countries.
 
 ## Insights
 1. **Global Decline in PM2.5 in Some Regions** – Developed countries showed gradual improvement in air quality, while some developing nations experienced rising PM2.5 levels.
