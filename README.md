@@ -31,7 +31,10 @@ The cleaning process involved:
 ## Exploratory Data Analysis (EDA)
 EDA was performed to identify trends, distributions, and potential relationships:
 - **Distribution Analysis** – Histograms and density plots were created for PM2.5, temperature, precipitation, and humidity.
+
 ![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/Distribution.png)
+
+
 - **Time-Series Trends** – Line plots of mean annual PM2.5 and climate variables over decades highlighted temporal shifts.
 - **Central Tendency Measures** – Mean, median, and mode of each variable were calculated to understand typical values.
 - **Bivariate Analysis** – Scatter plots examined PM2.5 in relation to each climate variable to identify correlation patterns.
