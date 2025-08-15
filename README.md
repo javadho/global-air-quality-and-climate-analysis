@@ -60,9 +60,7 @@ Key visualizations included:
 
 ![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/p-value.png)
 
-- **Global Trend Lines** – Showing changes in average PM2.5, temperature, and precipitation over time.
-- **Scatter Plots** – PM2.5 vs. temperature, PM2.5 vs. precipitation, PM2.5 vs. humidity, colored by continent.
-- **Country-Level Comparisons** – Highlighting nations with extreme PM2.5 values and their corresponding climate conditions.
+- **[Global Air Quality Analysis Dashboard](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/Global%20Air%20Quality%20by%20Regions%20and%20Country.pbix)** focusing on average PM2.5 and its YoY%.
 
 ## Insights
 1. **Global Decline in PM2.5 in Some Regions** – Developed countries showed gradual improvement in air quality, while some developing nations experienced rising PM2.5 levels.
