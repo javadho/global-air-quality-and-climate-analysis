@@ -62,6 +62,8 @@ Key visualizations included:
 
 - **[Global Air Quality Analysis Dashboard](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/Global%20Air%20Quality%20by%20Regions%20and%20Country.pbix)** focusing on average PM2.5 and its YoY%.
 
+![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/Dashboard.png)
+
 ## Insights
 1. **Global Decline in PM2.5 in Some Regions** – Developed countries showed gradual improvement in air quality, while some developing nations experienced rising PM2.5 levels.
 2. **Temperature Relationship** – Higher temperatures were modestly associated with elevated PM2.5 in certain regions, potentially due to stagnant air conditions.
