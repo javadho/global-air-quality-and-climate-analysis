@@ -65,9 +65,11 @@ Key visualizations included:
 ![](https://github.com/javadho/global-air-quality-and-climate-analysis/blob/main/Visualizations/Dashboard.png)
 
 ## Insights
-1. **Global Decline in PM2.5 in Some Regions** – Developed countries showed gradual improvement in air quality, while some developing nations experienced rising PM2.5 levels.
-2. **Temperature Relationship** – Higher temperatures were modestly associated with elevated PM2.5 in certain regions, potentially due to stagnant air conditions.
-3. **Precipitation Impact** – Higher rainfall correlated with lower PM2.5 levels, likely due to particulate washout effects.
-4. **Humidity Effect** – In humid climates, PM2.5 levels showed mixed trends, suggesting regional factors and pollution sources play a significant role.
-5. **Regional Disparities** – Air quality challenges varied greatly between continents, with South and East Asia showing the highest PM2.5 concentrations.
+1. **Temperature Relationship** – Higher temperatures were effectively associated with depressed PM2.5.
+2. **Precipitation Impact** – Higher rainfall correlated with lower PM2.5 levels, likely due to particulate washout effects.
+3. **Humidity Effect** – In humid climates, PM2.5 levels showed a modest correlations.
+4. **Global Decline in PM2.5 in Some Regions** – Developed countries showed a gradual improvement in air quality, while some developing nations experienced rising PM2.5 levels.
+5. **Regional Disparities** – Air quality challenges varied greatly between continents, with Northern Africa, South and East Asia showing the highest PM2.5 concentrations.
+6. **Regional Change Over Time** - The average PM2.5 YoY% for Africa has the least improvement, and for Europe, the best improvement in the last three decades.
+7. **Worsen Clean Air Regions** - Oceania is the only region with a below PM2.5 average whose air quality is getting worse over time.
 
